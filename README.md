@@ -5,4 +5,6 @@ Code and complile smart contract in browser IDE
 
 # Language
 
-- Solidity
+- `Solidity`
+
+- `msg.sender`: người sử dụng chức năng, địa chỉ ví người gửi 
