@@ -1,0 +1,99 @@
+All right, so before we build out our very own d'application from scratch, and I'm very excited to
+
+jump into all of that.
+
+I think it's quite useful as a reference to have some lessons where we just go over the basics of what
+
+is a DApp, what is a d'application and decentralization and what does this mean in terms of the future
+
+of applications of technology?
+
+Why are we doing this?
+
+Why are we interested in this?
+
+What are the pros?
+
+What are the cons?
+
+So if you are interested in reviewing these basics, these fundamentals, or you're curious about my
+
+perspective in relation to the course and what we are building?
+
+Then I encourage you to go through these lessons or just come back to them later as a frame of reference.
+
+Now these upcoming lessons just a note, do not directly provide programming knowledge.
+
+This is to gain a macro perspective on the applications and what we are doing.
+
+So it's totally up to you, whether you wish to proceed through these now, later or even or even not
+
+at all, and just move right into the project.
+
+All right.
+
+So still with me.
+
+Awesome.
+
+So let's go over what is a DApp?
+
+Some of us may be thinking there has been quite a narrative, quite a narrative about this disruptive
+
+shift in application technology.
+
+So, of course, removing the D from DApp gives us an app.
+
+And when we think about applications, right when we think about an applications such as, you know,
+
+talk, let's say those of us who understand the infrastructure databases will already have this clear
+
+understanding that, all right.
+
+You basically have users and they access the application with their devices.
+
+All right.
+
+That goes ISP, which, you know, an internet service provider, in case you were wondering.
+
+And that goes into the data center.
+
+And generally, we have a central data center, a data bank, a data bank or database which holds the
+
+information.
+
+And this is powered by nodes.
+
+It's powered by computers, right?
+
+All right.
+
+So this is a traditional overview, very a very simplistic overview of an application.
+
+Now, when we consider DApps, this is what we see.
+
+This is what we can see and what happened and what happened.
+
+Well, where is the data center?
+
+Well, where is this single point?
+
+This singular data center?
+
+Well, when we look at the overview formation of a DApp, we see that this is removed.
+
+Instead, we go directly P2P peer to peer.
+
+Now, of course, there are all sorts of manifestations and different variations, and you can be saying,
+
+well, clarion.
+
+You know, what about this DApp?
+
+But just to get started, just to get started with a visual representation of a simplistic of simplistic
+
+derivatives between the plane of applications and the plane of the applications.
+
+Hopefully, this visualization helps to instill fundamental, but let's dive deep.
+
+Let's dive much more deep.

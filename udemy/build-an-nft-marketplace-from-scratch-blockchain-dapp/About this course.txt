@@ -1,0 +1,23 @@
+Learn Professional Dapp Development 
+- Solidity & Javascript - with Nextjs, IPFS, Hardhat, OpenZeppelin, Ethers, Tailwind
+
+# IPFS
+Hệ thống tệp liên hành tinh là một giao thức và mạng ngang hàng để lưu trữ và chia sẻ dữ liệu trong một hệ thống tệp phân tán.
+IPFS sử dụng định địa chỉ nội dung để xác định duy nhất từng tệp trong không gian tên chung kết nối tất cả các thiết bị máy tính.
+
+# Hardhat
+Ethereum development environment for professionals
+
+## Run Solidity locally
+Easily deploy your contracts, run tests and debug Solidity code without dealing with live environments. 
+Hardhat Network is a local Ethereum network designed for development.
+
+## Debugging-first
+Hardhat is the best choice for Solidity debugging. 
+You get Solidity stack traces, console.log and explicit error messages when transactions fail.
+
+# OpenZeppelin
+The standard for secure blockchain applications
+OpenZeppelin provides security products to build, automate, and operate decentralized applications. 
+We also protect leading organizations by performing security audits on their systems and products.
+OpenZeppelin là một công ty bảo mật được biết đến với việc phát triển các thư viện Solidity được gọi là OpenZeppelin Contract
