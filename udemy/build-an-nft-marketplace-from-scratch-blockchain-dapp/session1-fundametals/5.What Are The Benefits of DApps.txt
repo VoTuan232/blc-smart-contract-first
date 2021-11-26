@@ -1,0 +1,151 @@
+So let's discuss now what are the benefits of d'application, so why why are we building the applications?
+
+Why are we excited about them?
+
+Why can't we stop talking about them and bothering our friends, our family, our friends, our families,
+
+our colleagues with all this talk of DApps?
+
+Well, let's consider that they have protection against censorship, and censorship is a is becoming
+
+more and more of a bigger issue in technology today.
+
+And as we.
+
+That's what applications can provide for a solution against censorship is that decentralization enables,
+
+in effect, a shield against any single point of failure.
+
+And so because of this, no one authority can manipulate or gain control of data and information and
+
+censor information.
+
+Another reason for building a d'application is to consider downtime resistance.
+
+All right.
+
+So what do I mean by downtime resistance?
+
+The network will continue to run via peer to peer, even if several individual units or a large chunk
+
+goes down now.
+
+Now I can just remember two days ago from delivering this lecture that Facebook went down.
+
+Facebook was down for a large portion on the eastern coast, and it went down because it is centralized.
+
+And when its database is in trouble, when there are issues, then the entire user ecosystem suffers.
+
+All right.
+
+So downtime resistance, being able to continue to run even if you have issues happening on several
+
+on several computer systems is an excellent benefit.
+
+And another benefit I'd like for you to consider is decentralized finance.
+
+All right.
+
+The future of DeFi and the imperative I would I would even go as far as to say and the fact that DeFi
+
+is an integrated both solution much more easily when it comes to applications than it would with applications.
+
+Because when we are running on its application, it allows for our platform to have easy wiring compatibility
+
+with cryptocurrency for basic functionalities.
+
+All right.
+
+This is something that we are going to with our our marketplace.
+
+And finally, let's take a look at the fact that the applications are linked into open source fundamentals.
+
+So does that means so that means that developers, since two applications have open source visibility,
+
+then developers in general can build better systems.
+
+Because of that, they can make improvements requests.
+
+And this widespread improvement through the open source visibility lends itself much more to overall
+
+better qualitative evolution.
+
+So let's discuss now what are the benefits of d'application, so why why are we building the applications?
+
+Why are we excited about them?
+
+Why can't we stop talking about them and bothering our friends, our family, our friends, our families,
+
+our colleagues with all this talk of DApps?
+
+Well, let's consider that they have protection against censorship, and censorship is a is becoming
+
+more and more of a bigger issue in technology today.
+
+And as we.
+
+That's what applications can provide for a solution against censorship is that decentralization enables,
+
+in effect, a shield against any single point of failure.
+
+And so because of this, no one authority can manipulate or gain control of data and information and
+
+censor information.
+
+Another reason for building a d'application is to consider downtime resistance.
+
+All right.
+
+So what do I mean by downtime resistance?
+
+The network will continue to run via peer to peer, even if several individual units or a large chunk
+
+goes down now.
+
+Now I can just remember two days ago from delivering this lecture that Facebook went down.
+
+Facebook was down for a large portion on the eastern coast, and it went down because it is centralized.
+
+And when its database is in trouble, when there are issues, then the entire user ecosystem suffers.
+
+All right.
+
+So downtime resistance, being able to continue to run even if you have issues happening on several
+
+on several computer systems is an excellent benefit.
+
+And another benefit I'd like for you to consider is decentralized finance.
+
+All right.
+
+The future of DeFi and the imperative I would I would even go as far as to say and the fact that DeFi
+
+is an integrated both solution much more easily when it comes to applications than it would with applications.
+
+Because when we are running on its application, it allows for our platform to have easy wiring compatibility
+
+with cryptocurrency for basic functionalities.
+
+All right.
+
+This is something that we are going to with our our marketplace.
+
+And finally, let's take a look at the fact that the applications are linked into open source fundamentals.
+
+So does that means so that means that developers, since two applications have open source visibility,
+
+then developers in general can build better systems.
+
+Because of that, they can make improvements requests.
+
+And this widespread improvement through the open source visibility lends itself much more to overall
+
+better qualitative evolution.
+
+
+
+####
+- khả năng chống thời gian chết, có thể tiếp tục chạy ngay cả khi bạn gặp sự cố xảy ra trên một số server
+- Đó là những gì các ứng dụng có thể cung cấp cho một giải pháp chống lại sự kiểm duyệt là phân quyền cho phép,
+- Tương lai của DeFi
+- Opensource 

@@ -10,7 +10,7 @@ Ethereum development environment for professionals
 
 ## Run Solidity locally
 Easily deploy your contracts, run tests and debug Solidity code without dealing with live environments. 
-Hardhat Network is a local Ethereum network designed for development.
+`Hardhat Network` is a local Ethereum network designed for development.
 
 ## Debugging-first
 Hardhat is the best choice for Solidity debugging. 
@@ -20,4 +20,12 @@ You get Solidity stack traces, console.log and explicit error messages when tran
 The standard for secure blockchain applications
 OpenZeppelin provides security products to build, automate, and operate decentralized applications. 
 We also protect leading organizations by performing security audits on their systems and products.
-OpenZeppelin là một công ty bảo mật được biết đến với việc phát triển các thư viện Solidity được gọi là OpenZeppelin Contract
+OpenZeppelin là một `công ty bảo mật` được biết đến với việc phát triển các thư viện Solidity được gọi là OpenZeppelin Contract
+
+#  ABI
+ABI là từ viết tắt của Application Binary Interface. 
+API dùng để xác định hàm nào trong hợp đồng thông minh được gọi và trả về dữ liệu theo định dạng mong đợi.
+
+# Bytecode
+Bytecode sẽ được dùng để triển khai lên mạng lưới của Ethreum.
+

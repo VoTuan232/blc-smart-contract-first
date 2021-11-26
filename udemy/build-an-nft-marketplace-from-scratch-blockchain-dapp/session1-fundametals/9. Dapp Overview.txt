@@ -1,0 +1,112 @@
+#
+There are already thousands of applications offering a wide variety of services, and yet we are still
+
+very, very early.
+
+You know, I often get that question clarion, is it too late?
+
+Is it too late?
+
+No, it is not too late.
+
+This is equivalent to being in the early 90s, asking if it's too late for the internet.
+
+There is so much to be built and so much to advance, and coming in now is as good a time as ever.
+
+So before DApps explode into the zeitgeist.
+
+You know, before we start seeing applications, our favorite Netflix shows on our favorite podcasts,
+
+on everybody's phones without thinking twice.
+
+We still have a ways, way to go.
+
+That being said, developers and the networks that they build DApps on still face many, many obstacles
+
+to overcome, and we've addressed this in this course.
+
+Scalability.
+
+Right?
+
+Security.
+
+UI and UX.
+
+Are among those obstacles which which we face, which we must face head on in the Coliseum of programming
+
+deep in the lion's den.
+
+But once that happens, the rise of decentralized applications will manifest.
+
+OK, so this is why we are here.
+
+We are here to learn how we can be better d'application developers.
+
+We are here to build, gain knowledge and I am very excited to go through to go through the upcoming
+
+lessons with you.
+
+So enough with the happening.
+
+Let's get to the happening and start building out our very own d'application together.
+
+I'll see you in the next lesson.
+
+And may the DeFi be with you.
+
+There are already thousands of applications offering a wide variety of services, and yet we are still
+
+very, very early.
+
+You know, I often get that question clarion, is it too late?
+
+Is it too late?
+
+No, it is not too late.
+
+This is equivalent to being in the early 90s, asking if it's too late for the internet.
+
+There is so much to be built and so much to advance, and coming in now is as good a time as ever.
+
+So before DApps explode into the zeitgeist.
+
+You know, before we start seeing applications, our favorite Netflix shows on our favorite podcasts,
+
+on everybody's phones without thinking twice.
+
+We still have a ways, way to go.
+
+That being said, developers and the networks that they build DApps on still face many, many obstacles
+
+to overcome, and we've addressed this in this course.
+
+Scalability.
+
+Right?
+
+Security.
+
+UI and UX.
+
+Are among those obstacles which which we face, which we must face head on in the Coliseum of programming
+
+deep in the lion's den.
+
+But once that happens, the rise of decentralized applications will manifest.
+
+OK, so this is why we are here.
+
+We are here to learn how we can be better d'application developers.
+
+We are here to build, gain knowledge and I am very excited to go through to go through the upcoming
+
+lessons with you.
+
+So enough with the happening.
+
+Let's get to the happening and start building out our very own d'application together.
+
+I'll see you in the next lesson.
+
+And may the DeFi be with you.

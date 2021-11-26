@@ -1,0 +1,390 @@
+
+
+#
+All right, so before we dive in and build this project out together, let's actually take a look at
+
+the final project model that we're building so that we have a clearer perspective and understanding
+
+of what our tasks are, what our goals are and all that good stuff.
+
+All right.
+
+So this is the marketplace in all of its glory.
+
+All right.
+
+So we have a nice title up here.
+
+We have a nav with different pages that we can switch to.
+
+So with a little bit of a nice CSS animation when we hover over the mouse and a thematic background
+
+image to support the overall UI experience and of course, our most prized possession and NFT, right?
+
+We see this is an NFT, which I just meant it.
+
+So this is a crypto bird.
+
+It's part of this crypto bird marketplace.
+
+It's the first one.
+
+Now I've uniquely input it a name and a description, so these can be changed as metadata.
+
+This is an IPFS hosted file image as well.
+
+And we also set the custom price.
+
+Now let's start off of a quick one.
+
+Can I buy this NFT?
+
+Well, let's test it out.
+
+So if I click buy.
+
+There we go.
+
+We see a transaction from the account.
+
+Moving forward, I can confirm with MetaMask and the transaction gets confirmed after I buy this NFT.
+
+The NFT is removed from the marketplace, but if I click on my NFT, as we see now that the NFT is added
+
+to the my NFT page.
+
+All right, awesome.
+
+So this is a fully functioning marketplace.
+
+Let's take a look at what else.
+
+We have a Mint Tokens page, and in the Mint Tokens page, we see a form.
+
+Now this form.
+
+Now this form asks us for an input name, a description, the price in Ether, and then a picture to
+
+upload to IPFS, which we can then only which we can mint only if we have all of these features together.
+
+So let's go ahead and add something.
+
+So I'm going to add another crypto bird song to say K Bird zero zero two.
+
+And I'll say this is the second crypto bird added to the it's just one crypto bird added to our awesome
+
+marketplace.
+
+We'll add a price here.
+
+I'll say 50 it.
+
+Let's browse for a token, so I will grab an image file here.
+
+Let's grab the wizard.
+
+All right.
+
+And let's mint.
+
+So I'll click on meant we see we get prompted by MetaMask to run a transaction of some gas fees.
+
+We can confirm the transaction and boom.
+
+The transaction has been confirmed.
+
+Then on the second transaction, we see the price of the market, so we got to confirm that amount.
+
+And by confirming that second amount, we then send our NFT and mint it onto the blockchain with a zero
+
+address.
+
+So once we met our token, we send it to a zero address and then it exists in the marketplace until
+
+some until somebody buys it.
+
+Now, can we keep track of these NFTs in the meantime?
+
+Well, if we go to our account dashboard, we see that we have our tokens minted.
+
+So even though these tokens exist in a zero address and we're going to see how all of this works once
+
+we start coding together, we see that our users who still create the minted tokens should still have
+
+access to them on the dashboard, and that makes sense with the prices.
+
+So we have the account dashboard, which is iterating through tokens that are users, meant we have
+
+my NFT, which is the token, which are the tokens which we buy.
+
+The NFT is that we purchase.
+
+We have the minting tokens, which is a form in order to mint tokens to the marketplace.
+
+And then we have the main marketplace, which showcases all of our users tokens.
+
+So this is a pretty rounded, awesome project.
+
+We're actually reverse engineering from a talented developer who wrote up an article on how to build
+
+this, and I'll provide a link.
+
+And and then the final thing to show you would be on.
+
+Final thing to show you would be how are we actually hooking up a local private blockchain?
+
+Well, on the terminal, as you can see, here we are running a local node which is adding blocks and
+
+minting our smart contracts.
+
+And as well, this local node is providing us if I scroll up here, 20 private accounts.
+
+So we get a 20 market account.
+
+So we have access to 20 accounts which are auto generated, each with 10000.
+
+If so, we can switch through these accounts and our metamask and run transactions and really make sure
+
+and really get a nice experience to see that, to see that our marketplace is really functional because
+
+all these accounts can technically be considered, you know, people who would be coming up onto our
+
+marketplace, buying and trading fees.
+
+So hopefully this inspires you a bit, feel a little bit of extra motivation as well as provides you
+
+with a better idea on what it is we are building specifically.
+
+So we have these different pages, which act as kind.
+
+Opponents, we see that we have our private blockchains set up and we see the functionality that's really
+
+key here, getting this form to work, to mint to the blockchain.
+
+And then the other aspect really here is iteration, right?
+
+What are the important filtering that we need to do and consider for the user experience, right?
+
+And that would be.
+
+And that would be access to the main market access to our tokens, minting tokens, access to purchase
+
+tokens, access to purchase tokens and then access to tokens that we've minted.
+
+All right.
+
+So are crypto.
+
+Birds are very excited for us to get started.
+
+Let's do this thing, IRA.
+
+We've got a grand adventure and let's do it.
+
+All right, so please use this video as a reference when we're going through these sections in case
+
+you want to get a better idea.
+
+You can always come back when we're building a page or section, and it should help you to provide a
+
+bit more perspective on what it is we're building.
+
+OK?
+
+And so whenever you're ready, let's get started building out this project together.
+
+See you in the next video.
+
+All right, so before we dive in and build this project out together, let's actually take a look at
+
+the final project model that we're building so that we have a clearer perspective and understanding
+
+of what our tasks are, what our goals are and all that good stuff.
+
+All right.
+
+So this is the marketplace in all of its glory.
+
+All right.
+
+So we have a nice title up here.
+
+We have a nav with different pages that we can switch to.
+
+So with a little bit of a nice CSS animation when we hover over the mouse and a thematic background
+
+image to support the overall UI experience and of course, our most prized possession and NFT, right?
+
+We see this is an NFT, which I just meant it.
+
+So this is a crypto bird.
+
+It's part of this crypto bird marketplace.
+
+It's the first one.
+
+Now I've uniquely input it a name and a description, so these can be changed as metadata.
+
+This is an IPFS hosted file image as well.
+
+And we also set the custom price.
+
+Now let's start off of a quick one.
+
+Can I buy this NFT?
+
+Well, let's test it out.
+
+So if I click buy.
+
+There we go.
+
+We see a transaction from the account.
+
+Moving forward, I can confirm with MetaMask and the transaction gets confirmed after I buy this NFT.
+
+The NFT is removed from the marketplace, but if I click on my NFT, as we see now that the NFT is added
+
+to the my NFT page.
+
+All right, awesome.
+
+So this is a fully functioning marketplace.
+
+Let's take a look at what else.
+
+We have a Mint Tokens page, and in the Mint Tokens page, we see a form.
+
+Now this form.
+
+Now this form asks us for an input name, a description, the price in Ether, and then a picture to
+
+upload to IPFS, which we can then only which we can mint only if we have all of these features together.
+
+So let's go ahead and add something.
+
+So I'm going to add another crypto bird song to say K Bird zero zero two.
+
+And I'll say this is the second crypto bird added to the it's just one crypto bird added to our awesome
+
+marketplace.
+
+We'll add a price here.
+
+I'll say 50 it.
+
+Let's browse for a token, so I will grab an image file here.
+
+Let's grab the wizard.
+
+All right.
+
+And let's mint.
+
+So I'll click on meant we see we get prompted by MetaMask to run a transaction of some gas fees.
+
+We can confirm the transaction and boom.
+
+The transaction has been confirmed.
+
+Then on the second transaction, we see the price of the market, so we got to confirm that amount.
+
+And by confirming that second amount, we then send our NFT and mint it onto the blockchain with a zero
+
+address.
+
+So once we met our token, we send it to a zero address and then it exists in the marketplace until
+
+some until somebody buys it.
+
+Now, can we keep track of these NFTs in the meantime?
+
+Well, if we go to our account dashboard, we see that we have our tokens minted.
+
+So even though these tokens exist in a zero address and we're going to see how all of this works once
+
+we start coding together, we see that our users who still create the minted tokens should still have
+
+access to them on the dashboard, and that makes sense with the prices.
+
+So we have the account dashboard, which is iterating through tokens that are users, meant we have
+
+my NFT, which is the token, which are the tokens which we buy.
+
+The NFT is that we purchase.
+
+We have the minting tokens, which is a form in order to mint tokens to the marketplace.
+
+And then we have the main marketplace, which showcases all of our users tokens.
+
+So this is a pretty rounded, awesome project.
+
+We're actually reverse engineering from a talented developer who wrote up an article on how to build
+
+this, and I'll provide a link.
+
+And and then the final thing to show you would be on.
+
+Final thing to show you would be how are we actually hooking up a local private blockchain?
+
+Well, on the terminal, as you can see, here we are running a local node which is adding blocks and
+
+minting our smart contracts.
+
+And as well, this local node is providing us if I scroll up here, 20 private accounts.
+
+So we get a 20 market account.
+
+So we have access to 20 accounts which are auto generated, each with 10000.
+
+If so, we can switch through these accounts and our metamask and run transactions and really make sure
+
+and really get a nice experience to see that, to see that our marketplace is really functional because
+
+all these accounts can technically be considered, you know, people who would be coming up onto our
+
+marketplace, buying and trading fees.
+
+So hopefully this inspires you a bit, feel a little bit of extra motivation as well as provides you
+
+with a better idea on what it is we are building specifically.
+
+So we have these different pages, which act as kind.
+
+Opponents, we see that we have our private blockchains set up and we see the functionality that's really
+
+key here, getting this form to work, to mint to the blockchain.
+
+And then the other aspect really here is iteration, right?
+
+What are the important filtering that we need to do and consider for the user experience, right?
+
+And that would be.
+
+And that would be access to the main market access to our tokens, minting tokens, access to purchase
+
+tokens, access to purchase tokens and then access to tokens that we've minted.
+
+All right.
+
+So are crypto.
+
+Birds are very excited for us to get started.
+
+Let's do this thing, IRA.
+
+We've got a grand adventure and let's do it.
+
+All right, so please use this video as a reference when we're going through these sections in case
+
+you want to get a better idea.
+
+You can always come back when we're building a page or section, and it should help you to provide a
+
+bit more perspective on what it is we're building.
+
+OK?
+
+And so whenever you're ready, let's get started building out this project together.
+
+See you in the next video.

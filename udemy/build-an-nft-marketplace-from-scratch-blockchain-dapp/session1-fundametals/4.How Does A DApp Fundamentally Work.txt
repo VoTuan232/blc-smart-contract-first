@@ -1,0 +1,171 @@
+All right.
+
+So let's dive into how do the apps actually work?
+
+Gap, which the D stands for, hopefully, hopefully you've guessed decentralized.
+
+All right.
+
+So so these decentralized applications, they work just like normal applications, except for one.
+
+One major difference.
+
+All right.
+
+And technically speaking, we can say that DApps work via a peer to peer or P2P network, such as a
+
+blockchain.
+
+All right.
+
+Such as a blockchain.
+
+And hopefully you and hopefully if you're taking this course, you already are familiar with blockchains
+
+with what our blockchains and that they act as this digital ledger of transactions that get duplicated
+
+across an entire network.
+
+And this provides a secure way for individuals to directly deal with each other, right directly deal
+
+with each other without a central point of authority, be it a bank, government or application or executive
+
+application such as Uber.
+
+OK, so DApps work via a P2P network such as a blockchain.
+
+And the key takeaway, then, is that no one single authority, so no one single authority can control
+
+the network, right?
+
+No one single authority can control the network.
+
+You would need to have a majority of control in order to make changes.
+
+Otherwise, the duplications are processed across the network.
+
+So in terms of defining a d'application, let's take a look at three key features.
+
+In order to get a.
+
+Fundamental sense and definition towards applications.
+
+So one, we can say that the data and the records must be public.
+
+All right.
+
+So when we consider Etherium right, when we consider the Etherium blockchain, we know that all the
+
+transactions, every single transaction is recorded on a public ledger, which can then be downloaded
+
+and accessed, and that information is set up for public record.
+
+Another key future Another key feature is the security of the network with cryptographic tokens and
+
+without getting too deep into cryptographic tokens.
+
+Now we can say that they are a digital unit of value that lives on the blockchain and that can include,
+
+of course, payment tokens, utility tokens, security tokens and the token which we will be looking
+
+at in this course, particularly nonfungible tokens, a.k.a. NFT, is all right.
+
+And the third key feature here is that a d'application must have open source fundamentals.
+
+All right, open source fundamentals.
+
+All right.
+
+And I just want to point out that these are the general beliefs of the blockchain communities.
+
+And although many DApps may have some form of combination, if not all of these features.
+
+So these are three key features to consider course.
+
+We must take a look individually at each example, respectively.
+
+All right.
+
+So let's dive into how do the apps actually work?
+
+Gap, which the D stands for, hopefully, hopefully you've guessed decentralized.
+
+All right.
+
+So so these decentralized applications, they work just like normal applications, except for one.
+
+One major difference.
+
+All right.
+
+And technically speaking, we can say that DApps work via a peer to peer or P2P network, such as a
+
+blockchain.
+
+All right.
+
+Such as a blockchain.
+
+And hopefully you and hopefully if you're taking this course, you already are familiar with blockchains
+
+with what our blockchains and that they act as this digital ledger of transactions that get duplicated
+
+across an entire network.
+
+And this provides a secure way for individuals to directly deal with each other, right directly deal
+
+with each other without a central point of authority, be it a bank, government or application or executive
+
+application such as Uber.
+
+OK, so DApps work via a P2P network such as a blockchain.
+
+And the key takeaway, then, is that no one single authority, so no one single authority can control
+
+the network, right?
+
+No one single authority can control the network.
+
+You would need to have a majority of control in order to make changes.
+
+Otherwise, the duplications are processed across the network.
+
+So in terms of defining a d'application, let's take a look at three key features.
+
+In order to get a.
+
+Fundamental sense and definition towards applications.
+
+So one, we can say that the data and the records must be public.
+
+All right.
+
+So when we consider Etherium right, when we consider the Etherium blockchain, we know that all the
+
+transactions, every single transaction is recorded on a public ledger, which can then be downloaded
+
+and accessed, and that information is set up for public record.
+
+Another key future Another key feature is the security of the network with cryptographic tokens and
+
+without getting too deep into cryptographic tokens.
+
+Now we can say that they are a digital unit of value that lives on the blockchain and that can include,
+
+of course, payment tokens, utility tokens, security tokens and the token which we will be looking
+
+at in this course, particularly nonfungible tokens, a.k.a. NFT, is all right.
+
+And the third key feature here is that a d'application must have open source fundamentals.
+
+All right, open source fundamentals.
+
+All right.
+
+And I just want to point out that these are the general beliefs of the blockchain communities.
+
+And although many DApps may have some form of combination, if not all of these features.
+
+So these are three key features to consider course.
+
+We must take a look individually at each example, respectively.

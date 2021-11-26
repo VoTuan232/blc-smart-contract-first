@@ -1,0 +1,184 @@
+https://www.stateofthedapps.com/platforms/ethereum
+# Example
+- Opensea
+- Tether
+- Uniswap
+
+#
+- Volume (7d): Transaction volume to DApp contracts. Exchange rates sourced from CryptoCompare.com
+- Transactions (24h) : Number of transactions to DApp contracts
+- Users (24h) : Daily Active Users, or DAU (unique source addresses in transactions to DApp contracts)
+
+
+# 
+So we've gone over some application examples, but let's get a little bit more specific now and take
+
+a look at some d'application examples.
+
+So feel free to follow along on your computer.
+
+I'm going to use the browser now or just continue to watch.
+
+It's totally up to you.
+
+Again, we are not programming, so I want us to go to W WW W Dot State of the Daps dot com.
+
+So when you get to state of the DApps dot com, what you see essentially an explorer, an explorer for
+
+decentralized applications.
+
+So state of the DApps covers the applications and statistics on the applications on Ethereum, EOS,
+
+Hive, Neo, blockchain, etc. with the definitive registry of that projects and information that's
+
+going on.
+
+So we see we have different blockchains that we can switch to when we get to the homepage and they even
+
+provide a ranking system.
+
+So if we were to click, if we were to click on the Ethereum, we get to a page here now where we see
+
+Ethereum rankings.
+
+So these are d'application rankings and the number one we see the number one DApp is open.
+
+See?
+
+All right.
+
+Right now.
+
+This, of course, is just according to a ranking system brought to us by state of the DApps.
+
+And if we want to go into their metrics and how it comes together, you can feel free to check that
+
+out on your own.
+
+I'm not going to go into that, but I did feel it relevant to point you in the direction of other d'application
+
+so that you have a point of reference.
+
+If you're curious about the application development there is, there is much more, of course, than
+
+just NFT marketplaces, albeit that being a very trending topic.
+
+So OpenSea is a peer to peer marketplace for scarce digital goods, which are going to take a look at
+
+in a little bit.
+
+So we're not going to go into it, but essentially we are building the basic functionality of OpenSea
+
+for ourselves.
+
+All right.
+
+So we see Tether the digital money for a digital age.
+
+All right.
+
+So we have a stablecoin.
+
+We see Chainlink, which offers API real world data, which we refer to as oracles for events and payments
+
+and smart contracts.
+
+We have, of course, the DEX Uniswap, which is a protocol for automated token exchange.
+
+We have a virtual world, Decentraland, which runs on open standards and the list goes on.
+
+So feel free to check this out.
+
+It's very inspiring.
+
+It's very inspiring and interesting, and they even have DApps per category.
+
+So you can see we have gaming applications, gambling finance socials, huge wallet, governance, security,
+
+storage, even energy, health and insurance.
+
+So we've gone over some application examples, but let's get a little bit more specific now and take
+
+a look at some d'application examples.
+
+So feel free to follow along on your computer.
+
+I'm going to use the browser now or just continue to watch.
+
+It's totally up to you.
+
+Again, we are not programming, so I want us to go to W WW W Dot State of the Daps dot com.
+
+So when you get to state of the DApps dot com, what you see essentially an explorer, an explorer for
+
+decentralized applications.
+
+So state of the DApps covers the applications and statistics on the applications on Ethereum, EOS,
+
+Hive, Neo, blockchain, etc. with the definitive registry of that projects and information that's
+
+going on.
+
+So we see we have different blockchains that we can switch to when we get to the homepage and they even
+
+provide a ranking system.
+
+So if we were to click, if we were to click on the Ethereum, we get to a page here now where we see
+
+Ethereum rankings.
+
+So these are d'application rankings and the number one we see the number one DApp is open.
+
+See?
+
+All right.
+
+Right now.
+
+This, of course, is just according to a ranking system brought to us by state of the DApps.
+
+And if we want to go into their metrics and how it comes together, you can feel free to check that
+
+out on your own.
+
+I'm not going to go into that, but I did feel it relevant to point you in the direction of other d'application
+
+so that you have a point of reference.
+
+If you're curious about the application development there is, there is much more, of course, than
+
+just NFT marketplaces, albeit that being a very trending topic.
+
+So OpenSea is a peer to peer marketplace for scarce digital goods, which are going to take a look at
+
+in a little bit.
+
+So we're not going to go into it, but essentially we are building the basic functionality of OpenSea
+
+for ourselves.
+
+All right.
+
+So we see Tether the digital money for a digital age.
+
+All right.
+
+So we have a stablecoin.
+
+We see Chainlink, which offers API real world data, which we refer to as oracles for events and payments
+
+and smart contracts.
+
+We have, of course, the DEX Uniswap, which is a protocol for automated token exchange.
+
+We have a virtual world, Decentraland, which runs on open standards and the list goes on.
+
+So feel free to check this out.
+
+It's very inspiring.
+
+It's very inspiring and interesting, and they even have DApps per category.
+
+So you can see we have gaming applications, gambling finance socials, huge wallet, governance, security,
+
+storage, even energy, health and insurance.

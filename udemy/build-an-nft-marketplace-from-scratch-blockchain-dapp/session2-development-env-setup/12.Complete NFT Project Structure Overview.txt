@@ -1,0 +1,6 @@
+
+# Structure
+
+## Folder scripts
+- Deploy contracts up to blockchain 
+- node_modue/@openzippline/token/ : check ECR

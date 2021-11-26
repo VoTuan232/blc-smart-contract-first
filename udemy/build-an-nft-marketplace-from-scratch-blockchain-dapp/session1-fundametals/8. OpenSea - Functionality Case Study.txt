@@ -1,0 +1,150 @@
+
+#
+- NFT project 
+- về cơ bản OpenSea hoạt động như một eBay phi tập trung.
+- For NFT is non-fungible tokens.
+- Seller - Buyer 
+    - Match Buyer with seller exchange
+    - contract receives assets
+    - contract distributes assets 
+    - Register 
+    - Tất cả hoạt động trong mạng lưới Ethereum hoặc Polygon là blockchain 
+    - quyền sở hữu là không thể tranh cãi.
+
+
+# 
+And so specifically, since we are building in this course, an NFT marketplace, let's take a deep
+
+dive plan superintended on OpenSea and break down essentially what the functionality is here.
+
+What we want to accomplish.
+
+What are our goals and how does OpenSea do this?
+
+Because I'm a firm believer in looking at successful examples when it comes to building, building and
+
+manifesting our own successes.
+
+So in order to understand the mechanisms behind OpenSea, it's important to understand how smart contracts
+
+work.
+
+And this in effect, is how OpenSea works.
+
+So OpenSea essentially is acts as a decentralized eBay.
+
+All right.
+
+For NFT is non-fungible tokens.
+
+Therefore, you have buyers, so you have users who wish to buy NFTs by these unique individual, irreplaceable
+
+and interchangeable tokens.
+
+You have users who want to sell collectibles, so these can be users who have minted tokens, or these
+
+can be users who have bought tokens and wish to sell those tokens.
+
+So already we can be thinking, OK, we're going to need pages.
+
+We're going to need a page which offers the marketplace where all the NFTs are up for sale.
+
+And this is where our buyers can go.
+
+And we're going to need to have a page in order to mint and make these NFTs to put them up for sale.
+
+And then we're going to need to match.
+
+We're going to need to build out the functionality that allows this to happen.
+
+So that means matching a buyer with seller exchanges and doing that contracts, receiving assets, contracts,
+
+distributing assets, then clearing and settlement automation.
+
+And of course, this goes up onto the Ethereum or Polygon in this case, blockchain, in which case
+
+the ownership is undisputed.
+
+So we call these our digital digital collectibles.
+
+All right.
+
+So this is in effect how OpenSea works on the most fundamental level.
+
+Now, of course, you can get much more specific when it comes to metadata and reflecting information,
+
+filtering for searching and all sorts of excellent features you can continue to integrate.
+
+Now, before we start coding, we will take a look at our final project as well, and that should help
+
+you to get a better sense of why we are building each component and how it's going to work together.
+
+But I still think this preliminary analysis is also quite beneficial.
+
+And so specifically, since we are building in this course, an NFT marketplace, let's take a deep
+
+dive plan superintended on OpenSea and break down essentially what the functionality is here.
+
+What we want to accomplish.
+
+What are our goals and how does OpenSea do this?
+
+Because I'm a firm believer in looking at successful examples when it comes to building, building and
+
+manifesting our own successes.
+
+So in order to understand the mechanisms behind OpenSea, it's important to understand how smart contracts
+
+work.
+
+And this in effect, is how OpenSea works.
+
+So OpenSea essentially is acts as a decentralized eBay.
+
+All right.
+
+For NFT is non-fungible tokens.
+
+Therefore, you have buyers, so you have users who wish to buy NFTs by these unique individual, irreplaceable
+
+and interchangeable tokens.
+
+You have users who want to sell collectibles, so these can be users who have minted tokens, or these
+
+can be users who have bought tokens and wish to sell those tokens.
+
+So already we can be thinking, OK, we're going to need pages.
+
+We're going to need a page which offers the marketplace where all the NFTs are up for sale.
+
+And this is where our buyers can go.
+
+And we're going to need to have a page in order to mint and make these NFTs to put them up for sale.
+
+And then we're going to need to match.
+
+We're going to need to build out the functionality that allows this to happen.
+
+So that means matching a buyer with seller exchanges and doing that contracts, receiving assets, contracts,
+
+distributing assets, then clearing and settlement automation.
+
+And of course, this goes up onto the Ethereum or Polygon in this case, blockchain, in which case
+
+the ownership is undisputed.
+
+So we call these our digital digital collectibles.
+
+All right.
+
+So this is in effect how OpenSea works on the most fundamental level.
+
+Now, of course, you can get much more specific when it comes to metadata and reflecting information,
+
+filtering for searching and all sorts of excellent features you can continue to integrate.
+
+Now, before we start coding, we will take a look at our final project as well, and that should help
+
+you to get a better sense of why we are building each component and how it's going to work together.
+
+But I still think this preliminary analysis is also quite beneficial.

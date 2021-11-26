@@ -1,0 +1,130 @@
+### Quick note 
+- Open source hack
+- Ugly UI & Poor UX
+- Web2 and The networking effect 
+
+###
+
+All right, so we've taken a look at some of the d'application benefits, but I would not be doing a
+
+great job as an instructor if we did not also then therefore cover vulnerabilities and application weaknesses.
+
+So what are some of the weaknesses when considering the applications?
+
+So because we are looking at open source, then hacking becomes an issue, then we need to consider
+
+how hackers and bad actors can take advantage of this.
+
+So public visibility provides bad actors more leverage, therefore, to look for and exploit weaknesses.
+
+Right.
+
+And we've seen this.
+
+This has happened.
+
+This has happened on many, many platforms, from DEXs to NFT marketplaces.
+
+All right.
+
+Also, we have to consider that the UI and the UX right now when it comes to DApps is not in its optimal
+
+place compared to what we see with web to applications, right?
+
+Many DApps, I would even say most DApps currently have not the best UI, which puts off its users.
+
+But this is something which is improving with time and this is why we are here, right?
+
+We are here to help improve this.
+
+I would imagine some of you may be in fact leaders into making these improvements.
+
+All right.
+
+We just rushed on web, too.
+
+So let us also then consider the network effect.
+
+OK.
+
+So the current users compared to Web two, are low, rendering them less interactive and lower network
+
+effect often can be tied as well to the DApps overall security.
+
+All right.
+
+The less user interaction, the less user database information, the easier it may be computationally
+
+for bad actors to take advantage.
+
+All right.
+
+So again, this does point to early stages.
+
+In my opinion.
+
+This points to early stages and it is a question of the development process and scalability issues in
+
+order to overcome these issues.
+
+All right, so we've taken a look at some of the d'application benefits, but I would not be doing a
+
+great job as an instructor if we did not also then therefore cover vulnerabilities and application weaknesses.
+
+So what are some of the weaknesses when considering the applications?
+
+So because we are looking at open source, then hacking becomes an issue, then we need to consider
+
+how hackers and bad actors can take advantage of this.
+
+So public visibility provides bad actors more leverage, therefore, to look for and exploit weaknesses.
+
+Right.
+
+And we've seen this.
+
+This has happened.
+
+This has happened on many, many platforms, from DEXs to NFT marketplaces.
+
+All right.
+
+Also, we have to consider that the UI and the UX right now when it comes to DApps is not in its optimal
+
+place compared to what we see with web to applications, right?
+
+Many DApps, I would even say most DApps currently have not the best UI, which puts off its users.
+
+But this is something which is improving with time and this is why we are here, right?
+
+We are here to help improve this.
+
+I would imagine some of you may be in fact leaders into making these improvements.
+
+All right.
+
+We just rushed on web, too.
+
+So let us also then consider the network effect.
+
+OK.
+
+So the current users compared to Web two, are low, rendering them less interactive and lower network
+
+effect often can be tied as well to the DApps overall security.
+
+All right.
+
+The less user interaction, the less user database information, the easier it may be computationally
+
+for bad actors to take advantage.
+
+All right.
+
+So again, this does point to early stages.
+
+In my opinion.
+
+This points to early stages and it is a question of the development process and scalability issues in
+
+order to overcome these issues.

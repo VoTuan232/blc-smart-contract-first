@@ -1,0 +1,14 @@
+#
+npx create-next-app nft-marketplace-kryptobirds 
+npm i ether hardhat ethereum-waffle @nomiclabs/hardhat-ethers @nomiclabs/hardhat-waffle web3modal chai @openzeppelin/contracts axios ipfs-http-client
+npm i -D tailwindcss@latest postcss@latest autoprefixer@latest add eslint eslint-config-next
+npx tailwindcss init -p 
+npx hardhat  ( Check README.md for documetn )
+
+- ether: greate library interacting with Ethereum blockchain 
+- hardhat: Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. 
+        -   Get Solidity stack traces & console.log.
+- ipfs-http-client: giao thức và mạng ngang hàng để lưu trữ và chia sẻ dữ liệu trong một hệ thống tệp phân tán
+- @openzeppelin/contracts: library for secure smart contract development.
+- web3modal: A single Web3 / Ethereum provider solution for all Wallets ( Run metamask and transaction )
+- @nomiclabs/hardhat-waffle: build smart contract tests using Waffle in Hardhat, taking advantage of both.
