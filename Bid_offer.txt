@@ -1,0 +1,8 @@
+- Cả 2 đều là buy  order ( đơn đặt hàng )
+- phân biệt bằng taker order object
+
+- taker order => buy order có address null 
+- taker a bid => buy order có address khác null 
+
+- A bid, a contract: người tạo đấu giá có thể tạo giá thầu phù hợp điều kiện, 
+    có thể chấp nhận 1 giá thầu trước khi cuộc đấu giá kết thúc 

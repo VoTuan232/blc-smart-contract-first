@@ -1,0 +1,3 @@
+- Taker: người tuyên bố bán 1 mặt hàng hoặc đặt giá thầu đầu tiên cho 1 mặt hàng 
+- Maker: phản hồi tới taker, bằng cách mua một mặt hàng hoặc tiếp tục đấu giá 
+

@@ -1,0 +1,6 @@
+- Orders have three time components on them: created_date, listing_time, and expiration_time. 
+The created_date is the date the order was made.
+
+- The listing_time is the timestamp that the order will start to be fulfillable
+
+- The expiration_time is the timestamp that the order will no longer be fulfillable ever.

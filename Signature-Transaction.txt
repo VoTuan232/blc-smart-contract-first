@@ -1,0 +1,7 @@
+- Trên Ethereum, bất cứ khi nào trạng thái blockchain được thay đổi 
+(ví dụ: khi tài sản chuyển từ tài khoản này sang tài khoản khác hoặc tiền được giao dịch giữa các tài khoản), 
+một giao dịch cần phải xảy ra. Tất cả các giao dịch đều yêu cầu thanh toán bằng Ether và trong hình thức thanh toán này được gọi là gas.
+
+- Khi người dùng liệt kê một mặt hàng để bán, họ chỉ cần ký ý định hoán đổi mặt hàng đó để thanh toán. 
+Ý định này được lưu trữ trong hệ thống OpenSea dưới dạng lệnh bán và không tạo ra một giao dịch. 
+Khi một người mua đến và quyết định chấp nhận giá niêm yết, người mua có thể ký một lệnh mua như một lệnh đối ứng để khớp với lệnh bán.
